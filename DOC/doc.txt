@@ -1,0 +1,4 @@
+add-migration Iniciar -p SITRRAEN.RepositoryEF -c SitraenContext -o Migrations -s  SITRRAEN.RepositoryEF
+
+update-database -p SITRRAEN.RepositoryEF -s SITRRAEN.RepositoryEF
+

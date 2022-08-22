@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SITRAEN.Controllers\SITRAEN.Controllers.csproj" />
+    <ProjectReference Include="..\SITRAEN.Presenter\SITRAEN.Presenter.csproj" />
+    <ProjectReference Include="..\SITRAEN.RepositoryEF\SITRRAEN.RepositoryEF.csproj" />
+    <ProjectReference Include="..\SITRAEN.UseCases\SITRAEN.UseCases.csproj" />
+  </ItemGroup>
+
+</Project>

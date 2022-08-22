@@ -1,0 +1,30 @@
+.material-datatables {
+    padding: 1%;
+    margin-top:100px;
+  }
+  
+  .toolbar2 {
+    float: left;
+  }
+  
+  .pull-left {
+    text-align: left !important;
+  }
+  
+  span {
+      font-family: Roboto;
+      font-size:1.2rem;
+  
+  }
+
+  .icon-add {
+    color: blue;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.icon-add i {
+    font-size: 3rem;    
+}
